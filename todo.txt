@@ -1,0 +1,9 @@
+JOUEUR 1 BAS TIR BLEU 
+J 2 HAUT TIR ROUGE
+
+bdd sqlite
+
+github + ppt + trello
+
+bug rejouer après game over
+regler pause
